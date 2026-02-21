@@ -1,3 +1,5 @@
+![Banner](<img width="1200" height="563" alt="image" src="https://github.com/user-attachments/assets/8bbabcfc-698b-4621-aa42-fb9e63fe42f2" />
+)
 👋 Hi! I’m Ioana, passionate about mathematics 🧮 and computer science 💻.
 Recently, I’ve been exploring classification algorithms 📊 and machine learning 🤖, inspired by the probability concepts I studied at university 🎓.
 
